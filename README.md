@@ -1,0 +1,1 @@
+# openshift-image-promote-ansible-module
